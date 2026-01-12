@@ -1,1 +1,1 @@
-## ivr_project.prikol
+## HSE Lyceum IT Projects - ivr_proect
